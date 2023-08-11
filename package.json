@@ -1,10 +1,11 @@
 {
   "name": "@15sof/test-private-app",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "test app share",
   "main": "index.js",
   "author": "me",
   "license": "ISC",
+  "bin": "./bin/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
